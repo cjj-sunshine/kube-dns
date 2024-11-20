@@ -1,1 +1,1 @@
-docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
+docker.io/calico/cni:v3.25.0
