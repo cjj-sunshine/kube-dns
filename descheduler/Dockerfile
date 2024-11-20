@@ -1,1 +1,1 @@
-FROM  tensorflow/serving:2.6.2
+docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
