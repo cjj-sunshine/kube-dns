@@ -1,1 +1,1 @@
-FROM registry.cn-beijing.aliyuncs.com/kubesphereio/provisioner-localpv:3.3.0
+FROM registry.k8s.io/kustomize/kustomize:v5.0.0
