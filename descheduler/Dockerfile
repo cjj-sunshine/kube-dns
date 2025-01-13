@@ -1,1 +1,1 @@
-FROM registry.k8s.io/kustomize/kustomize:v5.0.0
+FROM kserve/modelmesh-controller:v0.11.0
