@@ -1,1 +1,1 @@
-FROM docker.io/grafana/grafana:9.5.5
+FROM quay.io/kiali/kiali:v1.72
