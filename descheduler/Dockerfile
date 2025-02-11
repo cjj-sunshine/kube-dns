@@ -1,1 +1,1 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.13.1
+FROM tomcat:8.0.18-jre8
